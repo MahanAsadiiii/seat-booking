@@ -1,13 +1,14 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.economy {
+  color: white;
+  background-color: #43aa8b;
 }
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.vip {
+  color: white;
+  background-color: #ff820e;
+  box-shadow: 3px 3px gray;
+}
+.tokhmi {
+  color: white;
+  background-color: #230e7e;
+  box-shadow: 3px 3px gray;
 }
